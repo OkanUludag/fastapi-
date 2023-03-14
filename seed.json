@@ -1,0 +1,26 @@
+[
+    { 
+        "user": "Okan",
+        "task": "Stand up"
+    },
+    { 
+        "user": "Elin",
+        "task": "Go to work"
+    },
+    { 
+        "user": "Nils",
+        "task": "Buy an apple"
+    },
+    { 
+        "user": "Karl",
+        "task": "Finish work"
+    },
+    { 
+        "user": "Klas",
+        "task": "Spring marathon"
+    },
+    { 
+        "user": "Ludvig",
+        "task": "kryp sakta"
+    }
+]
